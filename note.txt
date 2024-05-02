@@ -1,0 +1,6 @@
+Event Bubbling -->
+jispe click karoge wo element par event raise hoga, aur event listener naa milne par event element ke parent par listener dhundega, waha bhi nahi milne par event parent ke parent ke parent par listener dhundega  
+
+
+'' -- > (single quotes) -- used to store the strings ,  used to add(+) to add dynamic values +2+2
+`` -- > (backticks) -- used to store the strings , doesnt need add(+) to add dynamic values , we can use `${2+2}`
